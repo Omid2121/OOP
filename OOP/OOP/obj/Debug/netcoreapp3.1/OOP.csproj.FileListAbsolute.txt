@@ -1,0 +1,11 @@
+C:\Users\omidh\Documents\GitHub\OOP\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.exe
+C:\Users\omidh\Documents\GitHub\OOP\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.deps.json
+C:\Users\omidh\Documents\GitHub\OOP\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.json
+C:\Users\omidh\Documents\GitHub\OOP\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.dev.json
+C:\Users\omidh\Documents\GitHub\OOP\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.dll
+C:\Users\omidh\Documents\GitHub\OOP\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.pdb
+C:\Users\omidh\Documents\GitHub\OOP\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.csprojAssemblyReference.cache
+C:\Users\omidh\Documents\GitHub\OOP\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfoInputs.cache
+C:\Users\omidh\Documents\GitHub\OOP\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
+C:\Users\omidh\Documents\GitHub\OOP\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.dll
+C:\Users\omidh\Documents\GitHub\OOP\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
