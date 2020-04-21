@@ -57,6 +57,22 @@ namespace Bank
 
         }
 
+        public  string GetAccountHistory()
+        {
+            var reprot = new StringBuilder();
+
+            reprot.AppendLine($"Date \t \t Amount \t Note");
+
+            foreach (var item in allTransactions)
+            {
+                reprot.AppendLine($"{item.Date.ToShortDateString()} \t {item.Amount} \t {item.Notes}");
+            }
+            return reprot.ToString();
+
+
+
+        }
+
 
     }
 }

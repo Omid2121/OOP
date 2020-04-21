@@ -10,7 +10,16 @@ namespace Bank
             Console.WriteLine($"Konto {account.Number} blev oprettet til {account.Owner} med {account.Balance}. ");
 
             account.MakeWithdrawal(200, DateTime.Now, "Stol");
-            Console.WriteLine("Penge tilbage: "+ account.Balance);
+            Console.WriteLine(account.Balance);
+
+            account.MakeWithdrawal(1200, DateTime.Now, "TV");
+            Console.WriteLine(account.Balance);
+
+            Console.WriteLine(account.GetAccountHistory());
+
+        
+
+
         }
     }
 }
